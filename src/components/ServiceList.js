@@ -1,4 +1,3 @@
-// ServiceList.js
 import React from 'react';
 import { useService } from '../context/ServiceContext';
 import { List, ListItem, ListItemText, Button, Typography } from '@mui/material';
